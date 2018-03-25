@@ -1,0 +1,38 @@
+p.center {
+  text-align: center;
+  padding: 10px;
+}
+
+h1.head {
+  color: #EFEFEF;
+  font-size: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: #B86577;
+}
+
+body {
+  background-color: pink;
+}
+
+footer {
+  background-color: #EFEFEF;
+}
+
+.btn {
+  margin: 10px;
+}
+
+input {
+  width: 80%;
+}
+
+#result {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
