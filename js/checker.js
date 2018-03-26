@@ -3,8 +3,8 @@ function test() {
   var his = document.getElementById('is').value;
   var herL = her.toLowerCase();
   var hisR = his.toLowerCase();
-  if(herL === "rayann" & hisR === "aidan") {
-    var laranja = "99.99999%";
+  if(herL === "rayann"  & hisR === "aidan") {
+    var laranja = "100%";
   } else {
     var laranja = "no chance holmes";
   }
